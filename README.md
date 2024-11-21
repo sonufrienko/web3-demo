@@ -11,3 +11,10 @@ docker run -d --name web3-mongo -p 27017:27017 \
 	mongo
 ```
 
+Start API
+
+```shell
+cd api
+npm i
+npm start
+```
